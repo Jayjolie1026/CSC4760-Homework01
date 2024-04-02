@@ -1,6 +1,7 @@
 Total: 5
 	Comment: Jamie, please come see a TA. 
-	If you finished the work but failed to commit let us know. Or I was just not able to locate it on github
+	If you finished the work but failed to submit on github let us know. 
+	Or if I was just not able to locate it on github.
 	please let me know.
 	Your work will still be graded.
 
